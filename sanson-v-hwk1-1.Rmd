@@ -1,7 +1,7 @@
 ---
-title: "HWK1 ECON 470"
-output: pdf_document
-date: "2023-01-24"
+#title: "HWK1 ECON 470"
+#output: pdf_document
+#date: "2023-01-24"
 ---
 #Homework 1
 
